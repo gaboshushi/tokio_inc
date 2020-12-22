@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body, html {
+	background-color: #1f1f1f !important;
+	color: #ffffff !important;
+	font-family: 'Varela Round', sans-serif !important;
+    font-size: 14px;
+}
+
+header {
+  background: url("../upload/header_tokio.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 120%;
+}
+
+
+footer {
+	background: rgb(171,10,10);
+background: linear-gradient(80deg, rgba(171,10,10,1) 0%, rgba(8,62,144,1) 100%);
+	text-align: center;
+	padding: 40px;
+	
+}
+
+footer a {color:#fff;
+		display: inline;}
+
+a {
+    color: #fff !important;
+    
+}
+a:hover, a:active {
+    color: #ABC8E7 !important;
+	display: initial;
+    text-decoration: none !important;
+ 
+}
+
+.catImgDes {
+   width: 100%; 
+            transition: 0.3s all ease-in-out; 
+    padding: 20px;
+}
+
+.catImgDes:hover {
+          -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2); 
+}
+
+.footerText {
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+
+.logo {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.titulo {
+	background-color: #ab0a0a;
+  	height: auto; 
+	max-width: 100% !important;
+    margin: 0;
+    padding: 10px;
+	text-align: center;
+}
+
+.principalMain {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.categorias{
+	text-align: center;
+    text-transform: uppercase;
+}
+
+.social {
+	    margin: 0 6px;
+	padding: 10px;
+	position: relative;
+}
+
+.backBoton {
+	    margin: 0 6px;
+	padding: 10px;
+	position: absolute;
+    color: #fff;
+}
+
+.copyright {
+	font-size: 0.7em;
+}
+
+.categoriaImg {
+    width: 120px;
+
+}
+
+
+.productoImg {
+    width: inherit;
+}
+
+.productInfo {
+    padding: 20px 0;
+}
