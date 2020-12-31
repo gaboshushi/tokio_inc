@@ -113,3 +113,11 @@ a:hover, a:active {
 .productInfo {
     padding: 20px 0;
 }
+
+
+.rolloDesc {
+    padding-right: 0 !important;
+}
+.h6, h6 {
+    font-style: italic;
+}
