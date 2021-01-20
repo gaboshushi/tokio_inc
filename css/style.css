@@ -116,6 +116,3 @@ a:hover, a:active {
 .h6, h6 {
     font-style: italic;
 }
-img {
-    pointer-events: none !important;
-}
