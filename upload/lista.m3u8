@@ -1,0 +1,356 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK (East) HD
+http://raostvip.com:8080/semi16/1609.sem/115769?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK (L)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59287.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK EAST
+http://stream.streamhubtv.xyz:8080/live/Trey/Trey/22466.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK WEST
+http://stream.streamhubtv.xyz:8080/live/Trey/Trey/22467.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59286.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network HD
+http://raostvip.com:8080/semi16/1609.sem/115771?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network Pacific
+http://raostvip.com:8080/semi16/1609.sem/115773?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS SPORTS NETWORK
+http://pn.tvott.info:80/2784054827/7398533424/80941?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS Sports
+http://raostvip.com:8080/semi16/1609.sem/115909?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VH1 Classic HD
+http://raostvip.com:8080/semi16/1609.sem/108667?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VH1 Classis
+http://raostvip.com:8080/semi16/1609.sem/108669?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Undefined",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Undefined",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Arizona) HD
+http://raostvip.com:8080/semi16/1609.sem/116369?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Detroit) HD
+http://raostvip.com:8080/semi16/1609.sem/116370?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Florida) HD
+http://raostvip.com:8080/semi16/1609.sem/116371?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Mid West) HD
+http://raostvip.com:8080/semi16/1609.sem/116372?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (North) HD
+http://raostvip.com:8080/semi16/1609.sem/116373?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Ohio) HD
+http://raostvip.com:8080/semi16/1609.sem/116374?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Oklahoma)
+http://raostvip.com:8080/semi16/1609.sem/116375?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Prime Ticket) HD
+http://raostvip.com:8080/semi16/1609.sem/116376?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (San Diego) HD
+http://raostvip.com:8080/semi16/1609.sem/116377?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (South West) HD
+http://raostvip.com:8080/semi16/1609.sem/116378?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (South) HD
+http://raostvip.com:8080/semi16/1609.sem/116379?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Sun) HD
+http://raostvip.com:8080/semi16/1609.sem/116380?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (Tennessee) HD
+http://raostvip.com:8080/semi16/1609.sem/116381?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS (West) HD
+http://raostvip.com:8080/semi16/1609.sem/116382?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://pn.tvott.info:80/2784054827/7398533424/80951?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://visiona.club:25461/Cristian2019/2019Cristian/86921?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://rv.therevenge.co:80/565656/565656/80951?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://rv.therevenge.co:80/live/242424/242424/80951.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/80951?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1 (L)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59443.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1 (L)
+http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/59443?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1 FHD
+http://raostvip.com:8080/semi16/1609.sem/116383?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1 HD
+http://raostvip.com:8080/semi16/1609.sem/116385?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://pn.tvott.info:80/2784054827/7398533424/80950?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://visiona.club:25461/Cristian2019/2019Cristian/86922?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59444.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://rv.therevenge.co:80/565656/565656/80950?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 2 (L)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59445.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 2 (L)
+http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/59445?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 2 FHD
+http://raostvip.com:8080/semi16/1609.sem/116384?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 2 HD
+http://raostvip.com:8080/semi16/1609.sem/116386?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS ARIZONA PLUS HD
+http://raostvip.com:8080/semi16/1609.sem/116387?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS CINCINNATI
+http://raostvip.com:8080/semi16/1609.sem/116389?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS Carolina HD
+http://raostvip.com:8080/semi16/1609.sem/116388?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS DEPORTES HD
+http://raostvip.com:8080/semi16/1609.sem/116390?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS NEWS HD
+http://raostvip.com:8080/semi16/1609.sem/116391?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS North Carolina
+http://raostvip.com:8080/semi16/1609.sem/116392?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS Racing HD
+http://raostvip.com:8080/semi16/1609.sem/116393?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS SAN ANTONIO
+http://raostvip.com:8080/semi16/1609.sem/116394?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS SPORTS TIME OHIO
+http://raostvip.com:8080/semi16/1609.sem/116396?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS SPORTSTIME OHIO HD
+http://raostvip.com:8080/semi16/1609.sem/116398?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS Southeast
+http://raostvip.com:8080/semi16/1609.sem/116395?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS West & Prime Ticket
+http://raostvip.com:8080/semi16/1609.sem/116399?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sport",FOX Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Tampa (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58096?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Tenness (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58083?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Ohio
+http://redcoliptv.com:8090/milton/milton123/19787?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Kansas (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58090?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Indiana (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58089?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports FS2 (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58087?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1 (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58080?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1(M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1594?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 2 (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58081?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 2 HD
+http://redcoliptv.com:8090/milton/milton123/19779?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",A NBC Sports Philadelphia
+http://raostvip.com:8080/semi16/1609.sem/115550?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS BAY AREA HD
+http://pn.tvott.info:80/2784054827/7398533424/80962?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS BAY AREA HD
+http://rv.therevenge.co:80/565656/565656/80962?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS BOSTON HD
+http://pn.tvott.info:80/2784054827/7398533424/80963?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS CALIFORNIA HD
+http://pn.tvott.info:80/2784054827/7398533424/80964?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS CALIFORNIA HD
+http://rv.therevenge.co:80/565656/565656/80964?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS NETWORK
+http://pn.tvott.info:80/2784054827/7398533424/80966?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS NORTHWEST HD
+http://rv.therevenge.co:80/565656/565656/80967?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS NORTHWEST HD
+http://pn.tvott.info:80/2784054827/7398533424/80967?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sport
+http://visiona.club:25461/Cristian2019/2019Cristian/86929?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports (North West) HD
+http://raostvip.com:8080/semi16/1609.sem/116875?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area
+http://raostvip.com:8080/semi16/1609.sem/116876?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area Plus
+http://raostvip.com:8080/semi16/1609.sem/116877?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Boston
+http://raostvip.com:8080/semi16/1609.sem/116878?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports California
+http://raostvip.com:8080/semi16/1609.sem/116879?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports California Plus
+http://raostvip.com:8080/semi16/1609.sem/116880?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Chicago
+http://raostvip.com:8080/semi16/1609.sem/116881?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Chicago Plus
+http://raostvip.com:8080/semi16/1609.sem/116882?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Philadelphia
+http://raostvip.com:8080/semi16/1609.sem/116884?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Washington
+http://raostvip.com:8080/semi16/1609.sem/116885?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Washington Plus
+http://raostvip.com:8080/semi16/1609.sem/116886?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA-NBC Sports Network (tr)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35858?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-TNT Pacific (tr)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/60025?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-TNT Pacific (TV)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/53870?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-TNT Pacific (M)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58060?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-TNT (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35811?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT Pacific (tr)(1080)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/60025?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT Pacific (TV)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53870?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT Pacific (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58060?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT FHD
+http://raostvip.com:8080/semi16/1609.sem/117277?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (M)(1080)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35811?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (L)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59514.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (L)
+http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/59514?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (East) HD
+http://raostvip.com:8080/semi16/1609.sem/117276?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://rv.therevenge.co:80/565656/565656/81182?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/99?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://visiona.club:25461/Cristian2019/2019Cristian/86877?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+http://pn.tvott.info:80/2784054827/7398533424/81182?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
+http://pn.tvott.info:80/2784054827/7398533424/80944?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
+http://visiona.club:25461/Cristian2019/2019Cristian/86918?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN (L)
+http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/59402?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 1 HD
+http://raostvip.com:8080/semi16/1609.sem/116161?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
+http://redcoliptv.com:8090/milton/milton123/19750?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
+http://pn.tvott.info:80/2784054827/7398533424/80945?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59405.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 FHD
+http://raostvip.com:8080/semi16/1609.sem/116163?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2(L)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59404.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2(L)
+http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/59404?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 3 HD
+http://raostvip.com:8080/semi16/1609.sem/116165?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN DEPORTES FHD
+http://raostvip.com:8080/semi16/1609.sem/116167?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN HD
+http://raostvip.com:8080/semi16/1609.sem/116169?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN NEWS
+http://pn.tvott.info:80/2784054827/7398533424/80997?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN NEWS
+http://rv.therevenge.co:80/565656/565656/80997?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN News HD
+http://raostvip.com:8080/semi16/1609.sem/116171?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN News US HD
+http://raostvip.com:8080/semi16/1609.sem/116173?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN PLUS 2
+http://raostvip.com:8080/semi16/1609.sem/116177?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN TDN
+http://raostvip.com:8080/semi16/1609.sem/116179?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN U
+http://pn.tvott.info:80/2784054827/7398533424/80946?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN U HD
+http://raostvip.com:8080/semi16/1609.sem/116181?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN2
+http://visiona.club:25461/Cristian2019/2019Cristian/86919?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN
+http://rv.therevenge.co:80/565656/565656/86939?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN 3
+http://rv.therevenge.co:80/565656/565656/86937?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",FOX SPORT 2
+http://rv.therevenge.co:80/565656/565656/86935?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC 4 NY
+http://pn.tvott.info:80/2784054827/7398533424/81134?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/54459?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC HD
+http://raostvip.com:8080/semi16/1609.sem/116750?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67045?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NICKTOONS
+http://pn.tvott.info:80/2784054827/7398533424/81035?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Undefined",Nick Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TOONCAST HD
+http://rv.therevenge.co:80/565656/565656/82417?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",INF-Tooncast (M)(SD)
+http://tv.masterplaytv.xyz:8000/LTN737/7647385926/1397?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",INF-Tooncast (M)(720)
+http://tv.masterplaytv.xyz:8000/LTN737/7647385926/1396?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GINX eSports HD
+http://raostvip.com:8080/semi16/1609.sem/116470?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM HD
+http://rv.therevenge.co:80/565656/565656/82368?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TCM HD
+http://raostvip.com:8080/semi16/1609.sem/117242?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TCM
+http://rv.therevenge.co:80/live/242424/242424/86983.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="Entertainment;Undefined",Adult Swim,US | Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="Entertainment",Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MLB 1
+http://raostvip.com:8080/semi16/1609.sem/116622?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MLB HD
+http://raostvip.com:8080/semi16/1609.sem/116623?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sport",NFL Channel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL League Pass 15 HD 1080P
+http://51.222.82.89:22829/1212/1212/323869?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL League Pass 13 HD 1080P
+http://51.222.82.89:22829/1212/1212/323867?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 01 HD 1080P
+http://51.222.82.89:22829/1212/1212/323843?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 02 HD 1080P
+http://51.222.82.89:22829/1212/1212/323844?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 03 HD 1080P
+http://51.222.82.89:22829/1212/1212/323845?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 04 HD 1080P
+http://51.222.82.89:22829/1212/1212/323846?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 06 HD 1080P
+http://51.222.82.89:22829/1212/1212/323848?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 08 HD 1080P
+http://51.222.82.89:22829/1212/1212/323850?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 10 (Live Events)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59371.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 2 (Live Events)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59374.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 7 (Live Events)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59379.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA League Pass 9 (Live Events)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59381.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL League Pass 02 HD 1080P
+http://51.222.82.89:22829/1212/1212/323871?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL League Pass 04 HD 1080P
+http://51.222.82.89:22829/1212/1212/323873?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL League Pass 15 HD 1080P
+http://51.222.82.89:22829/1212/1212/323884?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL NETWORK HD
+http://raostvip.com:8080/semi16/1609.sem/117018?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL NETWORK
+http://pn.tvott.info:80/2784054827/7398533424/80972?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NHL Network HD
+http://visiona.club:25461/Cristian2019/2019Cristian/142?checkedby:hlscat.com
